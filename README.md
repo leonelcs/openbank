@@ -1,0 +1,1 @@
+Open Bank Example developed to try Spring Boot as REST API implementation option.
